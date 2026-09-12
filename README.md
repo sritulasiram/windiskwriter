@@ -18,6 +18,18 @@
 
 WinDiskWriter creates universal bootable USB **Windows installers** supporting both **UEFI** and **Legacy BIOS** modes directly on macOS. The resulting USB drives can be used to install Windows on standard PCs, Intel Macs, or virtual machines.
 
+<p align="center">
+  <a href="https://github.com/sritulasiram/windiskwriter/releases/latest">
+    <b>📥 Download Latest Release (v1.0.0)</b>
+  </a>
+  <br>
+  <sub>
+    <a href="https://github.com/sritulasiram/windiskwriter/releases/download/v1.0.0/WinDiskWriter.dmg">Download .DMG</a>
+    &nbsp;•&nbsp;
+    <a href="https://github.com/sritulasiram/windiskwriter/releases/download/v1.0.0/WinDiskWriter.zip">Download .ZIP</a>
+  </sub>
+</p>
+
 ---
 
 ## Table of Contents
